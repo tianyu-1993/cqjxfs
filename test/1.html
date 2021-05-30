@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <style>
+    .intro
+    {
+      background-color:yellow;
+    }
+    .classA .classB{background-color: #1AA094;}
+    .classC.classD{background-color:#999}
+  </style>
+</head>
+
+<body>
+<h1>欢迎来到我到的主页</h1>
+<h2>中间没空格的，匹配的是同时拥有classC和classD的元素</h2>
+<div class="classC classD">
+  <p >我最好的朋友是米老鼠。</p>
+</div>
+
+<h2>中间有空格的，匹配的是父节点是classA类，子节点是classB类的元素</h2>
+<div class="intro classA">
+  <p>我是唐老鸭。</p>
+  <p class="classB">我住在 Duckburg。</p>
+</div>
+
+
+<p>我最好的朋友是米老鼠。</p>
+
+</body>
+</html>
