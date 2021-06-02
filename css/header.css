@@ -14,3 +14,14 @@ header{
     display: inline-block;
     margin-left: 40px;
 }
+
+.logo img {
+    width: 100%
+}
+
+.nav{
+    display: inline-block;
+    margin-left: 105px;
+    vertical-align: top;
+}
+

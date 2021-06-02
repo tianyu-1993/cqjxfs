@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23dbec2c-8340-4d77-8c1a-6e70e9889868" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +58,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\cqjxfs\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\practise\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cqjxfs\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -77,8 +76,17 @@
       <workItem from="1622273553236" duration="2898000" />
       <workItem from="1622377403601" duration="1948000" />
       <workItem from="1622389304551" duration="876000" />
-      <workItem from="1622561045718" duration="2351000" />
+      <workItem from="1622561045718" duration="2458000" />
+      <workItem from="1622634712129" duration="4867000" />
     </task>
+    <task id="LOCAL-00001" summary="雨虹试制">
+      <created>1622564554713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622564554713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="雨虹试制" />
+    <option name="LAST_COMMIT_MESSAGE" value="雨虹试制" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1622562303210">
@@ -112,6 +125,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622388177512" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622564561462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622564561462" />
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622389580215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
